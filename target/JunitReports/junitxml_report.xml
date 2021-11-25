@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.404">
+<testcase classname="Feature to test the number which are multipliers of  4, 6 and both  available in integer Array" name="1 - Check function that find out numbers which are multiplier of 4,6 and both" time="0.102">
+<system-out><![CDATA[Given start setup...........................................................passed
+And Print Line..............................................................passed
+When Multiplier function takes integer array as parameter and filters then send back all multipliers.passed
+Then teardown execute.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Feature to test the palindrom String" name="2 - Check function that find out the string variable is palindrome  string or not" time="0.006">
+<system-out><![CDATA[Given start setup...........................................................passed
+And Print Line..............................................................passed
+When Palindrome String function takes string as parameter and send back result.passed
+Then teardown execute.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
